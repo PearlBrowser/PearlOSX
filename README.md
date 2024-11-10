@@ -1,6 +1,6 @@
 # Pearl
 
-## That's correct! Pearl now supports macOS. The first version (25.1) for OS X currently supports macOS 10.13 High Sierra and later.
+## That's correct! Pearl now supports macOS. We currently support macOS 12.4+
 
 
 # MOST IMPORTANT THINGS TO LEARN!
